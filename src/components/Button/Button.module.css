@@ -1,0 +1,9 @@
+.button {
+  background-color: var(--blue-dark);
+  border-radius: 6px;
+  padding: 16px;
+  height: 52px;
+  color: var(--gray-100);
+  display: flex;
+  gap: 8px;
+}
